@@ -3,8 +3,8 @@
 ## Experienced Full Stack Engineer Available for New Opportunity
 
 
-- 🔭 I recently graduate Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 💼 I’m currently looking for New Opportunity
+- 🔭 I recently graduate Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
@@ -39,7 +39,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anil-bomma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/anil_bomma
