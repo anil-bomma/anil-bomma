@@ -3,7 +3,9 @@
 ## Experienced Full Stack Engineer Available for New Opportunity
 
 
-- 💼 I’m currently looking for New Opportunity
+- 💼 Software Developer at 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://content.presspage.com/uploads/2087/500_newpeapodlogo2ccmyk-2.jpg?10000" />
+Peapod Digital Labs, Chicago, USA
 - 🔭 I recently graduate Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
