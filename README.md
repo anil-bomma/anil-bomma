@@ -43,7 +43,7 @@
 
 
 [twitter]: https://twitter.com/anil_bomma
-[instagram]: https://instagram.com/anilbomma
+[instagram]: https://instagram.com/anil_bomma
 [linkedin]: https://linkedin.com/in/anil-bomma
 [facebook]: https://www.facebook.com/anil
 [northwest]: https://www.nwmissouri.edu/
