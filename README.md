@@ -1,9 +1,9 @@
 # Hello World, I'm Anil 👋
 
-## Experienced Full Stack Engineer Available for New Opportunity
+## Experienced Full Stack Engineer
 
 
-- 💼 Software Developer at Peapod Digital Labs <img alt="Visual Studio Code" width="50px" src="https://content.presspage.com/uploads/2087/500_newpeapodlogo2ccmyk-2.jpg?10000" />.
+- 💼 Software Developer at Walmart <img alt="Visual Studio Code" width="50px" src="https://www.hmy-group.com/wp-content/uploads/2014/09/walmart.png" />.
 - 🔭 I recently graduate Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
