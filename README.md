@@ -3,7 +3,7 @@
 ## Experienced Full Stack Engineer
 
 
-- 💼 Software Developer at <img alt="Visual Studio Code" width="90px" src="https://cdn.potatopro.com/cdn/ff/uoAey0G3j1QzmqqVoCvWlAC-APEJD3Ijz3E0spNHhqk/1597832030/public/styles/1200_wide/public/field/image/walmartnew_9.jpg?itok=Rw5irfJa" />
+- 💼 Software Developer at [<img alt="Visual Studio Code" width="90px" src="https://cdn.potatopro.com/cdn/ff/uoAey0G3j1QzmqqVoCvWlAC-APEJD3Ijz3E0spNHhqk/1597832030/public/styles/1200_wide/public/field/image/walmartnew_9.jpg?itok=Rw5irfJa" />][walmart]
 - 👨‍🎓 Graduated Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -47,3 +47,4 @@
 [linkedin]: https://linkedin.com/in/anil-bomma
 [facebook]: https://www.facebook.com/anil
 [northwest]: https://www.nwmissouri.edu/
+[walmart]: https://www.walmart.com/
