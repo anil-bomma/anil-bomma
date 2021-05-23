@@ -3,7 +3,7 @@
 ## Experienced Full Stack Engineer
 
 
-- 💼 Software Developer at Walmart <img alt="Visual Studio Code" width="50px" src="https://www.hmy-group.com/wp-content/uploads/2014/09/walmart.png" />.
+- 💼 Software Developer at Walmart <img alt="Visual Studio Code" width="100px" src="https://www.hmy-group.com/wp-content/uploads/2014/09/walmart.png" />.
 - 🔭 I recently graduate Master's Science in Computer Systems at  [<img  alt="NWMSU" width="17px" src="https://www.nwmissouri.edu/marketing/images/design/signatures/N.png" />][northwest] 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
